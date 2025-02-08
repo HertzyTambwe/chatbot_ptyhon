@@ -1,7 +1,7 @@
 import google.generativeai as ai
 
 # Replace with your API key
-API_KEY = '"
+API_KEY = ''
 
 ai.configure(api_key=API_KEY)
 
